@@ -1,0 +1,8 @@
+my_custom.import_webform_csv:
+  path: '/my_custom/import_webform_csv'
+  defaults:
+     _controller: \Drupal\my_custom\Controller\CustomModController::import_webform_csv
+     _title: 'Import Webform Submission'
+  requirements:
+     _permission: 'access content'
+     _role: 'authenticated+admin'
