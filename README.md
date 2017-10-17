@@ -3,3 +3,4 @@
 <p>1- Replicate these files into you custom module, and do the necessary changes.</p>
 <p>2- Place the csv file into you default/file folder.</p>
 <p>3- Run the rout url in browser. (batmanmask.com/my_custom/import_webform_csv)</p>
+<p><i>Note: This is just a temporary solution, so look for other solutions as-well.</i></p>
